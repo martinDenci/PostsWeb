@@ -1,0 +1,12 @@
+//change default styles(variables)
+
+
+@import "bootstrap";
+
+.router-link-exact-active {
+    color: $white !important;
+ }
+
+ footer .router-link-exact-active {
+    color: $blue !important;
+ }
